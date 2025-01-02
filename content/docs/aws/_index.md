@@ -9,5 +9,5 @@ Here, you'll find all my documentation on AWS, including solutions, findings, st
 
 The docs uses a different format.
 
-- [Certification Study guide - AWS Certified Developer Associate (DVA-C02)](cert_dva)
 - [EKS Workshops collection](eks_ws)
+- [Obsidian-based site](https://longkira-obsidian24.github.io/Instruction-Notes-Public/)
