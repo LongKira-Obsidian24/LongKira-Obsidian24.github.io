@@ -3,6 +3,7 @@ title: Building Docker images when running containerised GitHub Actions
 subtitle: Containerised GH action runner that connect to Docker on the host
 tags: ["GitHub", "CI/CD", "Containerisation", "Docker"]
 date: 2025-03-15
+summary: "You might just want to install your build tools (including GitHub action self-hosting) in an isolated Docker container. But what if you also want to build a container using said container ?"
 ---
 
 ## Sample source code

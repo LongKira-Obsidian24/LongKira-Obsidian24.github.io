@@ -1,5 +1,5 @@
 ---
-title: Sample documentaion and blogs
+title: Sample documentation and blogs
 subtitle: A variety of blog and documentations, categorised by their major related subjects
 comments: false
 ---

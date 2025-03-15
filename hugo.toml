@@ -96,7 +96,23 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
+    identifier = "docs"
     url = "/docs/"
     name = "Documentations"
     weight = 2
+  
+[[menu.main]]
+    url = "/tags/"
+    name = "Tags"
+    weight = 10
 
+[[menu.main]]
+    parent = "docs"
+    url = "/docs/aws"
+    name = "AWS"
+    weight = 1
+
+[[menu.main]]
+    url = "/samples"
+    name = "Samples"
+    weight = 4

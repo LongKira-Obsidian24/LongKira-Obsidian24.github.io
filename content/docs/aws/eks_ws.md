@@ -3,6 +3,7 @@ title: Amazon Elastic Kubernetes Services workshops
 subtitle: Some workshops related to EKS
 comments: false
 date: 2024-11-25
+summary: "EKS workshop - updated"
 ---
 
 ### Based on eksworkshop.com
