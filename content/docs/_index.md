@@ -8,3 +8,4 @@ This is where you can access my Documentations. I'm not a genius, nor a perfectl
 
 This page will grow as my docs increases in length and number.
 
+[See the sample documentations here](./samples/)
