@@ -54,15 +54,15 @@ pygmentsCodefencesGuessSyntax = true
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Obsidian 24"
-  website = ""
   email = "longhg04515@gmail.com"
-  github = "longthg-workshops"
+  linkedin = "longhg0220"
+  github = "LongKira-Obsidian24"
   # facebook = "username"
   # gitlab = "username"
   # bitbucket = "username"
   # twitter = "username"
   # reddit = "username"
-  linkedin = "longhg0220"
+  
   # xing = "username"
   # stackoverflow = "users/XXXXXXX/username"
   # snapchat = "username"
