@@ -27,8 +27,29 @@ I was the college student whose major was Computer Network. With a lot happened,
 1. **System Administration:**
     - Operating System: Windows Server, Linux (Debian-based distributions)
     - Command line environments: bash, PowerShell
-    - Virtualisation: VMWare, VirtualBox, Qemu
+    - Virtualisation: VMWare, VirtualBox, Qemu, Firecracker MicroVM
 
 1. **Cloud Computing:**
     - Platforms: Microsoft Azure, Amazon Web Services
-    - Services: 
+    - Services: Amazon EC2, Amazon ECS, Amazon EKS, AWS Lambda, AWS CloudFormation, Azure AKS
+
+1. **Containerisation:**
+    - Container engines: Docker-ContainerD, Linux Container
+    - Container orchestrators: Kubernetes
+
+1. **Programming and Scripting:**
+    - Go
+    - Python
+    - Shell scripts
+    - Powershell
+    - C/C++
+    - Assembly - Linux x86
+
+1. **CI/CD:**
+    - Jenkins
+    - DroneCI
+    - GitHub Actions
+
+1. **Code Versioning**
+    - Git
+    - GitHub
